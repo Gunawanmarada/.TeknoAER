@@ -1,1 +1,1 @@
-# .TeknoAER
+# TeknoAER
